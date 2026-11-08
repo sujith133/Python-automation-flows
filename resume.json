@@ -1,12 +1,12 @@
 {
     "basics": {
-        "full_name": "Shweta Patel",
-        "title": "Senior Android Developer",
-        "email": "shweta.patel112@gmail.com",
-        "phone": "856-203-0380",
-        "location": "Souderton, PA",
-        "linkedin": "https://www.linkedin.com/in/shweta-patel-b6791720/",
-        "summary": "Senior Android Developer with 13+ years of experience building secure, scalable, and high-performance Android applications for enterprise and consumer products. Expert in Kotlin, Android SDK, MVVM/Clean Architecture, Coroutines, Flow, Compose and modern Jetpack components. Proven track record of leading features end-to-end, improving code quality, and collaborating across cross-functional teams."
+        "full_name": "",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "location": "",
+        "linkedin": "",
+        "summary": ""
     },
     "skills": [
         {
@@ -94,11 +94,11 @@
     ],
     "experience": [
         {
-            "company": "Capital One",
-            "role": "Senior Software Developer, Android",
-            "location": "Wilmington, Delaware",
-            "start_date": "2024-08",
-            "end_date": "2025-10",
+            "company": "",
+            "role": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
             "highlights": [
                 "Designed, implemented and delivered tokenization feature for small business banking app (1M+ active users), strengthening protection of sensitive customer data using Kotlin and modern Android architecture.",
                 "Built lock/unlock plugin using a modern Android stack (Coroutines, Flow, Compose) with comprehensive unit and UI tests, ensuring a maintainable and testable design.",
@@ -108,68 +108,15 @@
                 "Actively participated in PR reviews, release regression testing, and Agile ceremonies."
             ]
         },
-        {
-            "company": "Tata Consultancy Services (Client: Comcast)",
-            "role": "Assistant Consultant, Senior Android Developer",
-            "location": "Philadelphia, USA",
-            "start_date": "2018-10",
-            "end_date": "2024-08",
-            "highlights": [
-                "Worked on the Comcast Business Android app (100k+ downloads); improved app performance and optimized app startup time by 40%, improving Play Store rating from 2 to 4.2.",
-                "Designed reusable Android components and internal libraries while modularizing the codebase into feature and core modules, improving cross-app scalability, feature delivery speed, and build reliability.",
-                "Delivered multiple customer-facing features in a large legacy Java codebase while refactoring key components and migrating them to Kotlin to improve maintainability and performance.",
-                "Implemented offline support using Room, push notifications, and VOIP calling.",
-                "Integrated Google Maps, demo mode, flexible in-app updates, and enhanced app security by implementing encrypted SharedPreferences and biometric authentication.",
-                "Led offshore-onshore coordination, conducted code reviews, and supported production releases."
-            ]
-        },
-        {
-            "company": "Clanelite Technologies",
-            "role": "Senior Application Developer",
-            "location": "India",
-            "start_date": "2017-01",
-            "end_date": "2018-05",
-            "highlights": [
-                "Developed Android apps for planning and budget management with charts and analytics.",
-                "Integrated in-app purchases, Firebase, REST APIs, reminders, and notifications.",
-                "Improved app stability by preventing crashes and memory leaks; applied ProGuard obfuscation.",
-                "Led a small Android team and managed Git repositories.",
-                "Gained hands-on experience with iOS development using Swift."
-            ]
-        },
-        {
-            "company": "Diaspark Inc",
-            "role": "Software Engineer L2",
-            "location": "India",
-            "start_date": "2014-01",
-            "end_date": "2016-11",
-            "highlights": [
-                "Implemented localization and new features for J&J Care4Today healthcare app.",
-                "Developed several News Android applications with charts, live feed, and complex UI.",
-                "Participated in architecture design and module planning.",
-                "Explored hybrid mobile POCs using Ionic and NativeScript."
-            ]
-        },
-        {
-            "company": "Persistent System Ltd",
-            "role": "Software Engineer",
-            "location": "India",
-            "start_date": "2011-09",
-            "end_date": "2013-11",
-            "highlights": [
-                "Integrated social APIs, implemented core app functionality, and built reusable libraries.",
-                "Created POCs using Google Maps SDK and navigation features."
-            ]
-        }
-    ],
+           ],
     "projects": [],
     "education": [
         {
-            "institution": "Rajiv Gandhi Technical University",
-            "degree": "B.E.",
-            "field": "Computer Science",
-            "start_year": "2007",
-            "end_year": "2011"
+            "institution": "",
+            "degree": "",
+            "field": "",
+            "start_year": "",
+            "end_year": ""
         }
     ],
     "certifications": []
